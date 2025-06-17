@@ -8,5 +8,5 @@
 ![alt foto](photo.jpg)
 
 ## Контакты
-- Email: zaglushka.com
-- Telegram: @zaglushka_telegram
+- Email: [zaglushka.com](https://google.com/).
+- Telegram: [@zaglushka_telegram](https://google.com/).
